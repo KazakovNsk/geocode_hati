@@ -3574,9 +3574,6 @@
             "id": "02"
         },
         {
-    "type": "FeatureCollection",
-    "features": [
-        {
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -4243,7 +4240,7 @@
                     ]
                 ]
             ]
-        },
+               },
         "properties": {
             "LAD13CD": "05",
             "LAD13CDO": "00AA",
@@ -4252,5 +4249,5 @@
         },
         "id": "05"
     }
-]
-}
+    ]
+        }
