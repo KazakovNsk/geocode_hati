@@ -1,3 +1,6 @@
+{
+    "type": "FeatureCollection",
+    "features": [
         {
             "type": "Feature",
             "geometry": {
@@ -537,4 +540,6 @@
                 "LAD13NMW": null
             },
             "id": "03"
-        },
+        }
+]
+}
