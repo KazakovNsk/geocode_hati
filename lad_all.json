@@ -3729,8 +3729,7 @@
                 "LAD13NMW": null
             },
             "id": "05"
-            }
-        },
+            },
         {
             "type": "Feature",
             "geometry": {
@@ -4249,6 +4248,6 @@
                 "LAD13NMW": null
             },
             "id": "05"
-        }
+            }
     ]
 }
