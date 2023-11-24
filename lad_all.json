@@ -1209,10 +1209,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "04",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "vidnoe",
-                "LAD13NMW": null
+                "zone": "vidnoe"
             },
             "id": "04"
         },
@@ -1462,10 +1459,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "04",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "vidnoe",
-                "LAD13NMW": null
+                "zone": "vidnoe"
             },
             "id": "04"
         },
@@ -1779,10 +1773,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "01"  
         },
@@ -1928,10 +1919,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "01"  
         },
@@ -1997,10 +1985,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "04",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "04"  
         },
@@ -2198,10 +2183,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "01"
         },
@@ -2391,10 +2373,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "01"
         },
@@ -2568,10 +2547,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "01",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "ryazan",
-                "LAD13NMW": null
+                "zone": "ryazan"
             },
             "id": "01"
         },
@@ -2661,10 +2637,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "03",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "chertanovo",
-                "LAD13NMW": null
+                "zone": "chertanovo"
             },
             "id": "03"
         },
@@ -2830,10 +2803,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "03",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "chertanovo",
-                "LAD13NMW": null
+                "zone": "chertanovo",
             },
             "id": "03"
         },
@@ -2975,10 +2945,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "03",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "chertanovo",
-                "LAD13NMW": null
+                "zone": "chertanovo"
             },
             "id": "03"
         },
