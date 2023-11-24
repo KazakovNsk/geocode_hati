@@ -159,10 +159,7 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "04",
-                "LAD13CDO": "00AA",
-                "LAD13NM": "vidnoe",
-                "LAD13NMW": null
+                "zone": "vidnoe"
             },
             "id": "04"
         },
